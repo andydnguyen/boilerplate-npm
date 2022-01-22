@@ -14,5 +14,6 @@
 	"author": "Andy Nguyen",
 	"description": "This is the back end development and APIs track of freeCodeCamp.",
 	"keywords": ["freecodecamp", "APIs", "Back end development"],
-	"license": "MIT"
+	"license": "MIT",
+	"version": "1.0"
 }
