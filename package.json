@@ -11,5 +11,6 @@
 		"type": "git",
 		"url": "https://idontknow/todo.git"
 	},
-	"author": "Andy Nguyen"
+	"author": "Andy Nguyen",
+	"description": "This is the back end development and APIs track of freeCodeCamp."
 }
